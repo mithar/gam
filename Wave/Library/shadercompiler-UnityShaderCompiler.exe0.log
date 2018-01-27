@@ -142,3 +142,13 @@ Cmd: preprocess
   insize=888 outsize=322 ok=1
 Cmd: preprocess
   insize=1459 outsize=20681 ok=1
+Cmd: preprocess
+  insize=890 outsize=324 ok=1
+Cmd: preprocess
+  insize=1461 outsize=951 ok=1
+Cmd: preprocess
+  insize=2557 outsize=898 ok=1
+Cmd: preprocess
+  insize=681 outsize=1136 ok=1
+Cmd: preprocess
+  insize=3761 outsize=628 ok=1
